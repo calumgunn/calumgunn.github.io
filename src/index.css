@@ -5,6 +5,10 @@
   font-style: normal;
 }
 
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
 div {
   margin: 0;
   padding: 0;
