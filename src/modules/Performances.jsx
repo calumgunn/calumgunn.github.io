@@ -8,10 +8,11 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>05/04/2018 - Chicago, IL at Bond Chapel, University of Chicago, Renaissance Society<br />
-        (collaborative audiovisual installation w/ Alex Boeschenstein)</p>
+        <p>(solo concert)<br />
+        05/04/2018 - Chicago, IL at Bond Chapel, University of Chicago, Renaissance Society</p>
 
-        <p>02/24/2018 - Seattle, WA at , Corridor Festival 2018</p>
+        <p>(sound installation)<br />
+        02/24/2018 - Seattle, WA at West Coasting Printing, Inc., Corridor Festival 2018</p>
 
         <h3>Past:</h3>
 
@@ -20,19 +21,24 @@ export default class Performances extends PureComponent {
         10/21/2017 - Philadelphia, PA at Icebox Project Space, Human Festival 2017<br />
         10/22/2017 - Queens, NY at H0L0</p>
 
+        <p>(w/ Archivist, IVVY)<br />
+        08/11/2017 - Naches, WA at American Ridge Lodge, Lodge Festival 2017</p>
+
         <p>(w/ Demdike Stare)<br />
         05/11/2017 - Seattle, WA at Kremwerk, Elevator</p>
 
-        <p>(w/ RM Francis and Seth Nehil)<br />
+        <p>(w/ RM Francis, Seth Nehil)<br />
         05/06/2017 - Seattle, WA at Chapel Performance Space, Draft</p>
 
         <p>(w/ Kevin Drumm)<br />
-        01/20/2017 - Vancouver, BC at Red Gate Revue Stage, Quiet City #31 01/21/2017 - Seattle, WA at Georgetown Steam Plant, Corridor Festival 2017 01/22/2017 - Portland, OR at S1, 3 Day Festival 2017</p>
+        01/20/2017 - Vancouver, BC at Red Gate Revue Stage, Quiet City #31<br />
+        01/21/2017 - Seattle, WA at Georgetown Steam Plant, Corridor Festival 2017<br />
+        01/22/2017 - Portland, OR at S1, 3 Day Festival 2017</p>
 
         <p>(w/ Daniel Menche)<br />
         12/22/2016 - Seattle, WA at Chapel Performance Space</p>
 
-        <p>(w/ Bardo:Basho, Stine Janvin Motland, Gerritt Wittmer)<br />
+        <p>(w/ Stine Janvin, Gerritt Wittmer)<br />
         06/24/2016 - Austin, TX at Salvage Vanguard Theater, NMASS Festival 2016</p>
 
         <p>(w/ Greg Kelley)<br />
@@ -41,7 +47,7 @@ export default class Performances extends PureComponent {
         <p>(w/ Bardo:Basho)<br />
         06/11/2016 - Portland, OR at Beacon Sound</p>
 
-        <p>(w/ Chemtrails)<br />
+        <p>(w/ Chemtrails, VIOLENCE)<br />
         06/10/2016 - Portland, OR at S1</p>
 
         <p>(w/ CoH)<br />
