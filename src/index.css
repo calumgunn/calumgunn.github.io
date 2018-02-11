@@ -9,6 +9,11 @@
   -webkit-font-smoothing: antialiased;
 }
 
+img {
+  max-width: 100%;
+  margin: 20px 0;
+}
+
 div {
   margin: 0;
   padding: 0;

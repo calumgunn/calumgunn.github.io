@@ -1,10 +1,13 @@
 import React, { PureComponent } from 'react';
+import Cameron from '../CS-Suzy_Poling.jpg';
 
 export default class About extends PureComponent {
   render() {
     return (
       <section>
         <h1>About</h1>
+
+        <img src={Cameron} alt="Cameron Shafii" />
 
         <p>Cameron Shafii is an Iranian composer practicing generative and
         electroacoustic music. His compositions are inflected with a host of
