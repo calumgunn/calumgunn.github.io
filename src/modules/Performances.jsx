@@ -8,14 +8,14 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>(solo concert)<br />
+        <p>(solo concert; premiere of 'Corpora Vilia')<br />
         05/04/2018 - Chicago, IL at Bond Chapel, University of Chicago, Renaissance Society</p>
-
-        <p>(sound installation)<br />
-        02/24/2018 - Seattle, WA at West Coasting Printing, Inc., Corridor Festival 2018</p>
 
         <h3>Past:</h3>
 
+        <p>(sound installation w/ visual accompaniment by Alex Boeschenstein and Ben Chaykin)<br />
+        02/24/2018 - Seattle, WA at West Coasting Printing, Inc., Corridor Festival 2018</p>
+        
         <p>(w/ RM Francis)<br />
         10/20/2017 - Baltimore, MD at The Red Room, Diffusion Festival 2017<br />
         10/21/2017 - Philadelphia, PA at Icebox Project Space, Human Festival 2017<br />
