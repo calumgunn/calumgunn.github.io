@@ -70,6 +70,27 @@ export default class Performances extends PureComponent {
         02/13/15 - Oakland, CA at Terminal<br />
         02/14/15 - Los Angeles, CA at Complex<br />
         02/15/15 - Phoenix, AZ at Apartment 512 Gallery, Ascetic House</p>
+
+        <p>(in Sutekh Hexen)<br />
+        08/26/2012 - Oakland, CA at Terminal<br />
+        08/28/2012 - Denver, CO at Aqualung<br />
+        08/29/2012 - Iowa City, IA at Gabe's<br />
+        08/30/2012 - Madison, WI at Dragonfly Lounge<br />
+        08/31/2012 - Chicago, IL at The Burlington<br />
+        09/01/2012 - Cleveland, OH at Now That's Class<br />
+        09/02/2012 - Philadelphia, PA at Millcreek Tavern<br />
+        09/03/2012 - Pawtucket, RI at Machines With Magnets<br />
+        09/04/2012 - Brooklyn, NY at Saint Vitus Bar<br />
+        09/05/2012 - Richmond, VA at Strange Matter<br /> 
+        09/06/2012 - Stevenson, MD at Greenspring Art Gallery, Stevenson University<br />
+        09/08/2012 - Raleigh, NC at Hopscotch Music Festival 2012 (w/ Sunn O))), Kevin Drumm)<br />
+        09/09/2012 - New Orleans, LA at The Big Top<br />
+        09/11/2012 - Denton, TX at Rubber Glove<br />
+        09/13/2012 - Albuquerque, NM at Small Engine Room<br />
+        09/14/2012 - Tempe, AZ at Yucca Tap Room<br /> 
+        09/15/2012 - Los Angeles, CA at Vacation Vinyl<br />
+        09/20/2012 - Oakland, CA at Oakland Metro Operahouse<br />
+        09/23/2012 - Soda Springs, CA at Stella Natura Festival 2012 (w/ Aluk Todolo, Ash Borer, Wolvserpent)</p>
       </section>
     );
   }
