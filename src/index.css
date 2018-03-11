@@ -85,3 +85,51 @@ header h1 a:hover {
 header h1 a:hover {
   border-left: 10px solid #000;
 }
+
+@media screen and (max-width: 960px) {
+  .app {
+    display: block;
+  }
+
+  header {
+    padding: 20px 0 10px 0;
+  }
+
+  nav {
+    width: 100%;
+  }
+
+  nav a {
+    display: inline-block;
+    padding-right: 20px;
+  }
+
+  nav a,
+  header h1 a {
+    text-decoration: none;
+    margin-bottom: 20px;
+  }
+
+  nav a:hover,
+  header h1 a:hover {
+    text-decoration: underline;
+    border-left: 0;
+    padding-left: 0;
+    color: #e74c3c;
+  }
+}
+
+@media screen and (max-width: 476px) {
+  header h1 {
+    font-size: 2em;
+  }
+
+  nav a {
+    font-size: 0.9em;
+    padding-right: 10px;
+  }
+
+  body {
+    padding: 20px;
+  }
+}
