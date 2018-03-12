@@ -14,7 +14,7 @@ export default class About extends PureComponent {
         digital synthesis processes and are informed by aspects of acousmatic
         theory, particularly spectromorphology. His works do not impose any
         temporal scheme upon the listener - rejecting the semiotic operation of
-        'engagement/disengagement'. ‘Pithy & Prolix’ and ‘Corpora Vilia’ - his 
+        'engagement/disengagement'. ‘Pithy & Prolix’ and ‘Corpora Vilia’ - his
         recent pieces published on the Anòmia and Conditional labels - present
         asymmetrical narratives that articulate tension, amorphous forms, and
         complex sonorities, signifiying a plurality of meaning and complication.</p>
