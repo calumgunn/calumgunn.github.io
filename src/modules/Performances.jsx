@@ -81,13 +81,13 @@ export default class Performances extends PureComponent {
         09/02/2012 - Philadelphia, PA at Millcreek Tavern<br />
         09/03/2012 - Pawtucket, RI at Machines With Magnets<br />
         09/04/2012 - Brooklyn, NY at Saint Vitus Bar<br />
-        09/05/2012 - Richmond, VA at Strange Matter<br /> 
+        09/05/2012 - Richmond, VA at Strange Matter<br />
         09/06/2012 - Stevenson, MD at Greenspring Art Gallery, Stevenson University<br />
         09/08/2012 - Raleigh, NC at Hopscotch Music Festival 2012 (w/ Sunn O))), Kevin Drumm)<br />
         09/09/2012 - New Orleans, LA at The Big Top<br />
         09/11/2012 - Denton, TX at Rubber Glove<br />
         09/13/2012 - Albuquerque, NM at Small Engine Room<br />
-        09/14/2012 - Tempe, AZ at Yucca Tap Room<br /> 
+        09/14/2012 - Tempe, AZ at Yucca Tap Room<br />
         09/15/2012 - Los Angeles, CA at Vacation Vinyl<br />
         09/20/2012 - Oakland, CA at Oakland Metro Operahouse<br />
         09/23/2012 - Soda Springs, CA at Stella Natura Festival 2012 (w/ Aluk Todolo, Ash Borer, Wolvserpent)</p>
