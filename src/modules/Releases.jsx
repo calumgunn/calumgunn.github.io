@@ -6,9 +6,9 @@ export default class Releases extends PureComponent {
       <section>
         <h1>Releases</h1>
 
-        <p>DzGl [cassette], Anòmia 2015</p>
-        <p>Pithy & Prolix [CD], Anòmia 2018</p>
-        <p>Corpora Vilia [CD], Conditional 2018</p>
+        <p>DzGl — Anòmia, 2015</p>
+        <p>Pithy & Prolix — Anòmia, 2018</p>
+        <p>Corpora Vilia — Conditional, 2018</p>
       </section>
     );
   }
