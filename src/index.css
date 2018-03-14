@@ -36,6 +36,7 @@ h1 {
   align-items: flex-start;
   vertical-align: top;
   width: 100%;
+  padding-bottom: 60px;
 }
 
 header {
@@ -117,6 +118,14 @@ header h1 a:hover {
     padding-left: 0;
     color: #e74c3c;
   }
+}
+
+.video-container {
+  width: 100%;
+}
+
+.video-container h1 {
+  padding-bottom: 20px;
 }
 
 @media screen and (max-width: 476px) {

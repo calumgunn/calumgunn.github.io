@@ -15,10 +15,10 @@ export default class About extends PureComponent {
         theory, particularly spectromorphology. His works do not impose any
         temporal scheme upon the listener - rejecting the semiotic operation of
         'engagement/disengagement'. ‘Pithy & Prolix’ and ‘Corpora Vilia’ - his
-        recent pieces published on the Anòmia and Conditional labels - present
+        recent pieces published on the Anòmia and Conditional labels - present
         asymmetrical narratives that articulate tension, amorphous forms, and
         complex sonorities, signifiying a plurality of meaning and complication.</p>
-        
+
         <p>Shafii has performed at concerts, festivals, and workshops, and has
         exhibited installations in the US and Canada. He runs the Ge-stell label 
         and is based in Philadelphia, where he is pursuing a Ph.D. in German at the 
