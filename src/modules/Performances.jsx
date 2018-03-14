@@ -66,10 +66,10 @@ export default class Performances extends PureComponent {
         03/14/2015 - San Francisco, CA at The Lab</p>
 
         <p>(w/ Scald Rougish)<br />
-        02/10/15 - San Francisco, CA at Elbo Room<br />
-        02/13/15 - Oakland, CA at Terminal<br />
-        02/14/15 - Los Angeles, CA at Complex<br />
-        02/15/15 - Phoenix, AZ at Apartment 512 Gallery, Ascetic House</p>
+        02/10/2015 - San Francisco, CA at Elbo Room<br />
+        02/13/2015 - Oakland, CA at Terminal<br />
+        02/14/2015 - Los Angeles, CA at Complex<br />
+        02/15/2015 - Phoenix, AZ at Apartment 512 Gallery, Ascetic House</p>
 
         <p>(in Sutekh Hexen)<br />
         08/26/2012 - Oakland, CA at Terminal<br />
