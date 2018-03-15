@@ -13,7 +13,7 @@ export default class Performances extends PureComponent {
 
         <h3>Past:</h3>
 
-        <p>(sound installation w/ visual accompaniment by Alex Boeschenstein and Ben Chaykin)<br />
+        <p>(‘Untitled #1’; sound installation w/ visual accompaniment by Alex Boeschenstein and Ben Chaykin)<br />
         02/24/2018 - Seattle, WA at West Coasting Printing, Inc., Corridor Festival 2018</p>
         
         <p>(w/ RM Francis)<br />
