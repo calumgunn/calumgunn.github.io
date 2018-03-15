@@ -9,7 +9,7 @@ export default class Releases extends PureComponent {
   render() {
     return (
       <section className="video-container">
-        <h1>Video</h1>
+        <h1>Videos</h1>
 
         <iframe
           src="https://player.vimeo.com/video/259951587"
