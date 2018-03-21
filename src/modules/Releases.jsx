@@ -14,7 +14,7 @@ export default class Releases extends PureComponent {
 
         <h3>Collaborations, Commissions, and Compilations:</h3>
         
-        <p>One of You is Fake (score for dance performance) — Beth Graczyk, 2016-17</p>
+        <p>One of You is Fake (score for dance performance) — Beth Graczyk, 2017-18</p>
         <p>Markers of an External Reality — Opal Tapes, 2018</p>
       </section>
     );
