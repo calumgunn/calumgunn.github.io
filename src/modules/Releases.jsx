@@ -12,7 +12,7 @@ export default class Releases extends PureComponent {
         <p>Pithy & Prolix — Anòmia, 2018</p>
         <p>Corpora Vilia — Conditional, 2018</p>
 
-        <h3>Collaborations and Compilations:</h3>
+        <h3>Collaborations, Commissions, and Compilations:</h3>
         
         <p>One of You is Fake (score for dance performance) — Beth Graczyk, 2016-17</p>
         <p>Markers of an External Reality — Opal Tapes, 2018</p>
