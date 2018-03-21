@@ -6,9 +6,16 @@ export default class Releases extends PureComponent {
       <section>
         <h1>Releases</h1>
 
+        <h3>Solo Albums:</h3>
+        
         <p>DzGl — Anòmia, 2015</p>
         <p>Pithy & Prolix — Anòmia, 2018</p>
         <p>Corpora Vilia — Conditional, 2018</p>
+
+        <h3>Collaborations and Compilations:</h3>
+        
+        <p>One of You is Fake (score for dance performance) — Beth Graczyk, 2016-17</p>
+        <p>Markers of an External Reality — Opal Tapes, 2018</p>
       </section>
     );
   }
