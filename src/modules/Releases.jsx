@@ -16,7 +16,7 @@ export default class Releases extends PureComponent {
         
         <p>Quark: How Does The Invisible Sound? [Q11] — 901 Editions, 2016</p>
         <p>One of You is Fake (score for dance performance) — Beth Graczyk, 2017-18</p>
-        <p>Markers of an External Reality — Opal Tapes, 2018</p>
+        <p>Markers of an External Reality — Zabte Sote, 2018</p>
       </section>
     );
   }
