@@ -14,8 +14,16 @@ export default class Releases extends PureComponent {
             DzGl — Anòmia, 2015
           </Link>
         </p>
-        <p>Pithy & Prolix — Anòmia, 2018</p>
-        <p>Corpora Vilia — Conditional, 2018</p>
+        <p>
+          <Link to="/releases/pithy-and-prolix">
+            Pithy & Prolix — Anòmia, 2018
+          </Link>
+        </p>
+        <p>
+          <Link to="/releases/corpora-vilia">
+            Corpora Vilia — Conditional, 2018
+          </Link>
+        </p>
 
         <h3>Collaborations, Commissions, and Compilations:</h3>
 

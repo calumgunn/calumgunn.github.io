@@ -3,9 +3,11 @@ import { BrowserRouter, Link, Route } from 'react-router-dom';
 
 import About from './modules/About';
 import Contact from './modules/Contact';
+import CorporaVilia from './modules/releases/CorporaVilia';
 import DzGl from './modules/releases/DzGl';
 import Home from './modules/Home';
 import Performances from './modules/Performances';
+import PithyProlix from './modules/releases/PithyProlix';
 import Releases from './modules/Releases';
 import Videos from './modules/Videos';
 
@@ -33,6 +35,8 @@ class App extends Component {
               <Route exact path="/" component={Home} />
               <Route exact path="/releases" component={Releases} />
               <Route exact path="/releases/dzgl" component={DzGl} />
+              <Route exact path="/releases/pithy-and-prolix" component={PithyProlix} />
+              <Route exact path="/releases/corpora-vilia" component={CorporaVilia} />
               <Route path="/performances" component={Performances} />
               <Route path="/about" component={About} />
               <Route path="/contact" component={Contact} />
