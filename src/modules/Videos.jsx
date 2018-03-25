@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import fitvids from 'fitvids';
 
-export default class Releases extends PureComponent {
+export default class Videos extends PureComponent {
   componentDidMount() {
     fitvids();
   }
