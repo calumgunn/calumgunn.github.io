@@ -3,6 +3,7 @@ import { BrowserRouter, Link, Route } from 'react-router-dom';
 
 import About from './modules/About';
 import Contact from './modules/Contact';
+import DzGl from './modules/releases/DzGl';
 import Home from './modules/Home';
 import Performances from './modules/Performances';
 import Releases from './modules/Releases';
@@ -30,7 +31,8 @@ class App extends Component {
                 <Link to="/contact">Contact</Link>
               </nav>
               <Route exact path="/" component={Home} />
-              <Route path="/releases" component={Releases} />
+              <Route exact path="/releases" component={Releases} />
+              <Route exact path="/releases/dzgl" component={DzGl} />
               <Route path="/performances" component={Performances} />
               <Route path="/about" component={About} />
               <Route path="/contact" component={Contact} />
