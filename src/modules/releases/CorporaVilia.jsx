@@ -7,7 +7,7 @@ export default class CorporaVilia extends PureComponent {
         <h1>Corpora Vilia</h1>
 
         <p>Label: Conditional<br />
-        Catalog Number: CON018<br />
+        Catalog Number: CON019<br />
         Format: CD, Album<br />
         Country: Germany<br />
         Release Date: 2018</p>
