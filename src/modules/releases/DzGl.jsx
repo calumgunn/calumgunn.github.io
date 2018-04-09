@@ -31,21 +31,6 @@ export default class DzGl extends PureComponent {
           B3  Gleichung [01:27]
         </p>
 
-        <p>DzGl (abbr. Differenzengleichung) are a series of nine contrasting
-        computer-based approximations of integers in recurrence relations.</p>
-
-        <p>In discrete mathematics, recurrence relations are the analog of
-        differential equations, equations that involve the derivatives of
-        functions as well as the function itself. The sonification of datasets
-        and algorithms in these pieces produce compositions that are
-        non-linear, complementary, and self-similar.</p>
-
-        <p>Tracks A1, A3 through B1 and B3 are for unattended computer. Tracks
-        A2 and B1 are for piano two- and four-hands with minimal digital signal
-        processing and electronic treatment. Track A6 refactors Tom Erbe’s code
-        base to regenerate James Tenney’s piece ‘For Ann (Rising)’, iterating
-        on each Shepard-Risset glissando.</p>
-
         <p>Mastered by Rashad Becker at D&M, Berlin.</p>
 
         <p>Special thanks to Arnau Sala Saez, Rashad Becker, Joe Gilmore,
