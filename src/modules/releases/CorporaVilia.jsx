@@ -25,7 +25,7 @@ export default class CorporaVilia extends PureComponent {
         <p>This recording was made possible with generous support from the
         Renaissance Society at the University of Chicago and Slought Foundation
         at the University of Pennsylvania. Special thanks to Calum Gunn,
-        Kirsten Thom, Kevin Drumm, and my cat, Lacora.</p>
+        Kirsten Thom, Kevin Drumm, Lee Fraser, and my cat, Lacora.</p>
       </section>
     );
   }
