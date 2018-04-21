@@ -1,13 +1,19 @@
 import React, { PureComponent } from 'react';
+import { Helmet } from 'react-helmet';
 
 export default class Performances extends PureComponent {
   render() {
     return (
       <section>
+        <Helmet>
+          <title>Performances | Cameron Shafii</title>
+          <meta name="description" content="Past and upcoming performances by Cameron Shafii." />
+        </Helmet>
+
         <h1>Performances</h1>
 
         <h3>Forthcoming:</h3>
-        
+
         <p>(w/ Kevin Drumm)<br />
         05/19/2018 - San Francisco, CA at The Lab</p>
 
@@ -18,7 +24,7 @@ export default class Performances extends PureComponent {
 
         <p>(sound installation w/ visual accompaniment by Alex Boeschenstein; premiere of 'Text 27')<br />
         02/24/2018 - Seattle, WA at West Coasting Printing, Inc., Corridor Festival 2018</p>
-        
+
         <p>(w/ RM Francis)<br />
         10/20/2017 - Baltimore, MD at The Red Room, Diffusion Festival 2017<br />
         10/21/2017 - Philadelphia, PA at Icebox Project Space, Human Festival 2017<br />

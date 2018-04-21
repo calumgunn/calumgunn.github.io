@@ -4,11 +4,17 @@ import Image02 from '../../images/ANM019-Cameron-Shafii02.jpg';
 import Image03 from '../../images/ANM019-Cameron-Shafii03.jpg';
 import Image04 from '../../images/ANM019-Cameron-Shafii04.jpg';
 import Image05 from '../../images/ANM019-Cameron-Shafii05.jpg';
+import { Helmet } from 'react-helmet';
 
 export default class DzGl extends PureComponent {
   render() {
     return (
       <section>
+        <Helmet>
+          <title>DzGl | Cameron Shafii</title>
+          <meta name="description" content="DzGl, a 2015 album by Cameron Shafii." />
+        </Helmet>
+
         <h1>DzGl</h1>
 
         <p>Label: Anòmia<br />

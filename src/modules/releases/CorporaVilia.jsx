@@ -1,9 +1,15 @@
 import React, { PureComponent } from 'react';
+import { Helmet } from 'react-helmet';
 
 export default class CorporaVilia extends PureComponent {
   render() {
     return (
       <section>
+        <Helmet>
+          <title>Corpora Vilia | Cameron Shafii</title>
+          <meta name="description" content="Corpora Vilia, a 2018 album by Cameron Shafii." />
+        </Helmet>
+
         <h1>Corpora Vilia</h1>
 
         <p>Label: Conditional<br />

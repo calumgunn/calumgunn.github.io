@@ -1,9 +1,15 @@
 import React, { PureComponent } from 'react';
+import { Helmet } from 'react-helmet';
 
 export default class PithyProlix extends PureComponent {
   render() {
     return (
       <section>
+        <Helmet>
+          <title>Pithy & Prolix | Cameron Shafii</title>
+          <meta name="description" content="Pithy & Prolix, a 2018 album by Cameron Shafii." />
+        </Helmet>
+
         <h1>Pithy & Prolix</h1>
 
         <p>Label: Anòmia<br />

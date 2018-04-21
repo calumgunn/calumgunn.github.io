@@ -1,5 +1,6 @@
 import React, { PureComponent } from 'react';
 import fitvids from 'fitvids';
+import { Helmet } from 'react-helmet';
 
 export default class Videos extends PureComponent {
   componentDidMount() {
@@ -9,6 +10,11 @@ export default class Videos extends PureComponent {
   render() {
     return (
       <section className="video-container">
+        <Helmet>
+          <title>Videos | Cameron Shafii</title>
+          <meta name="description" content="Video content by Cameron Shafii." />
+        </Helmet>
+
         <h1>Videos</h1>
 
         <iframe
