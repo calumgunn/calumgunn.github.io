@@ -14,14 +14,17 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
+        <p>(w/ Gerritt Wittmer, Peter J. Woods)
+        08/09/2018 - Philadelphia, PA at Heaven's Gate
+
+        <h3>Past:</h3>
+
         <p>(w/ Kevin Drumm)<br />
         05/19/2018 - San Francisco, CA at The Lab</p>
 
         <p>(solo concert; premiere of 'Corpora Vilia')<br />
         05/04/2018 - Chicago, IL at Bond Chapel, University of Chicago, Renaissance Society</p>
-
-        <h3>Past:</h3>
-
+        
         <p>(sound installation w/ visual accompaniment by Alex Boeschenstein; premiere of 'Text 27')<br />
         02/24/2018 - Seattle, WA at West Coasting Printing, Inc., Corridor Festival 2018</p>
 
