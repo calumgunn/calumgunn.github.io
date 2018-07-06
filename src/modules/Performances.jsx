@@ -14,8 +14,8 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>(w/ Gerritt Wittmer, Peter J. Woods)
-        08/09/2018 - Philadelphia, PA at Heaven's Gate
+        <p>(w/ Gerritt Wittmer, Peter J. Woods)<br />
+        08/09/2018 - Philadelphia, PA at Heaven's Gate</p>
 
         <h3>Past:</h3>
 
