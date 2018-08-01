@@ -13,7 +13,7 @@ export default class PithyProlix extends PureComponent {
         <h1>Pithy & Prolix</h1>
 
         <p>Label: Anòmia<br />
-        Catalog Number: ANM050<br />
+        Catalog Number: ANM049<br />
         Format: CD, Album<br />
         Country: Spain<br />
         Release Date: 2018</p>
