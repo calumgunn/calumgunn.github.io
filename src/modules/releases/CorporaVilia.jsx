@@ -21,9 +21,9 @@ export default class CorporaVilia extends PureComponent {
         <h3>Tracklist:</h3>
 
         <p>
-          01 Points and Planes of Potential Future Violations [11:32]<br />
-          02 Text 27 (Lise ein Fernsehspiel) [22:51]<br />
-          03 Spatial Envy; or Suture and Cut-Pieces [23:58]
+          01  Points and Planes of Potential Future Violations [11:32]<br />
+          02  Text 27 (Lise ein Fernsehspiel) [22:51]<br />
+          03  Spatial Envy; or Suture and Cut-Pieces [23:58]
         </p>
 
         <p>Mastered by Noel Summerville at 3345 Mastering, London.</p>
@@ -31,7 +31,7 @@ export default class CorporaVilia extends PureComponent {
         <p>This recording was made possible with generous support from the
         Renaissance Society at the University of Chicago and Slought Foundation
         at the University of Pennsylvania. Special thanks to Calum Gunn,
-        Kirsten Thom, Kevin Drumm, Lee Fraser, and my cat, Lacora.</p>
+        Kevin Drumm, and Kirsten Thom.</p>
       </section>
     );
   }
