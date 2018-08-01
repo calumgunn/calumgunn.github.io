@@ -24,7 +24,7 @@ export default class PithyProlix extends PureComponent {
 
         <p>Mastered by Noel Summerville at 3345 Mastering, London.</p>
 
-        <p>Special thanks to Kirsten Thom, Arnau Sala Saez, and Kirsten Thom.</p>
+        <p>Special thanks to Arnau Sala Saez, Kevin Drumm, and Kirsten Thom.</p>
       </section>
     );
   }
