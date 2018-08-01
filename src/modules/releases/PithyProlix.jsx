@@ -20,7 +20,7 @@ export default class PithyProlix extends PureComponent {
 
         <h3>Tracklist:</h3>
 
-        <p>01. Pithy & Prolix [40:48]</p>
+        <p>01  Pithy & Prolix [40:48]</p>
 
         <p>Mastered by Noel Summerville at 3345 Mastering, London.</p>
 
