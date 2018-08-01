@@ -28,10 +28,7 @@ export default class CorporaVilia extends PureComponent {
 
         <p>Mastered by Noel Summerville at 3345 Mastering, London.</p>
 
-        <p>This recording was made possible with generous support from the
-        Renaissance Society at the University of Chicago and Slought Foundation
-        at the University of Pennsylvania. Special thanks to Calum Gunn,
-        Kevin Drumm, and Kirsten Thom.</p>
+        <p>Special thanks to Calum Gunn, Kevin Drumm, Joe Gilmore, and Kirsten Thom.</p>
       </section>
     );
   }
