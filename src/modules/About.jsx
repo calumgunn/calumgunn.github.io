@@ -19,7 +19,7 @@ export default class About extends PureComponent {
         digital synthesis processes and are informed by aspects of acousmatic
         theory, particularly spectromorphology. His works do not impose any
         temporal scheme upon the listener, rejecting the semiotic operation of
-        'engagement/disengagement'. ‘Corpora Vilia’ — his latest full-length album for the Conditional label - presents
+        'engagement/disengagement'. ‘Corpora Vilia’ — his latest full-length album for the Conditional label — presents
         asymmetrical narratives that articulate tension, amorphous forms, and
         complex sonorities, signifying a plurality of meaning and complication.</p>
 
