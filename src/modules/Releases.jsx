@@ -27,7 +27,7 @@ export default class Releases extends PureComponent {
         </p>
         <p>
           <Link to="/releases/corpora-vilia">
-            Corpora Vilia — Conditional, 2018
+            Corpora Vilia — Conditional, 2019
           </Link>
         </p>
 
