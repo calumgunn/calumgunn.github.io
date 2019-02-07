@@ -14,19 +14,10 @@ export default class About extends PureComponent {
 
         <img src={Cameron} alt="Cameron Shafii" />
 
-        <p>Cameron Shafii is an Iranian composer practicing electronic and
-        electroacoustic music. His compositions are inflected with a host of
-        digital synthesis processes and are informed by aspects of acousmatic
-        theory, particularly spectromorphology. His works do not impose any
-        temporal scheme upon the listener, rejecting the semiotic operation of
-        'engagement/disengagement'. ‘Corpora Vilia’ — his latest full-length album for the Conditional label — presents
-        asymmetrical narratives that articulate tension, amorphous forms, and
-        complex sonorities, signifying a plurality of meaning and complication.</p>
+<p>Cameron Shafii is an Iranian composer practicing electronic and electroacoustic music. His compositions are inflected with a host of digital synthesis processes and are informed by aspects of acousmatic theory, particularly spectromorphology. His work has been published on various music labels, including Conditional (Berlin) and Anòmia (Barcelona).</p>
 
-        <p>Shafii has performed at concerts, festivals, and workshops, and has
-        exhibited installations in the US and Canada. He runs the Ge-stell label 
-        and is based in Philadelphia, where he is pursuing a Ph.D. in German at the 
-        University of Pennsylvania.</p>
+<p>Shafii runs the Ge-stell label, and is based in Philadelphia, where is jointly pursuing a Ph.D. in Germanic Languages and Literatures and the History of Art at the University of Pennsylvania.</p>
+
       </section>
     );
   }
