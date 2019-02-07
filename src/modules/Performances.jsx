@@ -14,7 +14,7 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>(w/ Ruben Patino)<br />
+        <p>(w/ Rubén Patiño)<br />
         02/14/2019 - Washington, DC at Rhizome</p>
 
         <h3>Past:</h3>
