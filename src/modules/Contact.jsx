@@ -12,7 +12,7 @@ export default class Contact extends PureComponent {
 
         <h1>Contact</h1>
 
-        <p>For all queries, please contact Cameron via email at <a href="mailto:info@ge-stell.net">info@ge-stell.net</a>.</p>
+        <p>For all queries, please contact Cameron via email <a href="mailto:shafii@sas.upenn.edu">here</a>.</p>
       </section>
     );
   }
