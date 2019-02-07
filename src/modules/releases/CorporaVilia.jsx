@@ -34,7 +34,7 @@ export default class CorporaVilia extends PureComponent {
 
         <p>Special thanks to Calum Gunn, Kevin Drumm, Joe Gilmore, and Kirsten Thom.</p>
 
-        <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3118419645/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.conditional.club/album/corpora-vilia">Corpora Vilia by Cameron Shafii</a></iframe>
+        <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3118419645/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://shop.conditional.club/album/corpora-vilia">Corpora Vilia by Cameron Shafii</a></iframe>
 
         <img src={Image01} alt="Corpora Vilia" />
         <img src={Image02} alt="Corpora Vilia" />
