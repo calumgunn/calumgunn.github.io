@@ -3,6 +3,7 @@ import Image01 from '../../images/CorporaVilia-1.JPG';
 import Image02 from '../../images/CorporaVilia-2.JPG';
 import Image03 from '../../images/CorporaVilia-3.JPG';
 import Image04 from '../../images/CorporaVilia-4.JPG';
+import BoomkatPackshot from '../../images/CorporaVilia-Boomkat.jpg';
 import { Helmet } from 'react-helmet';
 
 export default class CorporaVilia extends PureComponent {
@@ -34,8 +35,9 @@ export default class CorporaVilia extends PureComponent {
 
         <p>Special thanks to Calum Gunn, Kevin Drumm, Joe Gilmore, and Kirsten Thom.</p>
 
-        <iframe title="Corpora Vilia" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/510363615%3Fsecret_token%3Ds-cSQa0&color=%23050000&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+        <iframe title="Corpora Vilia" style={{border: 0, width: '350px', height: '470px'}} src="https://bandcamp.com/EmbeddedPlayer/album=3118419645/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://shop.conditional.club/album/corpora-vilia">Corpora Vilia by Cameron Shafii</a></iframe>
 
+        <img src={BoomkatPackshot} alt="Corpora Vilia" />
         <img src={Image01} alt="Corpora Vilia" />
         <img src={Image02} alt="Corpora Vilia" />
         <img src={Image03} alt="Corpora Vilia" />

@@ -42,11 +42,7 @@ export default class DzGl extends PureComponent {
         <p>Special thanks to Arnau Sala Saez, Rashad Becker, Joe Gilmore,
         Elaine Jones, and Marcus Schmickler.</p>
 
-        <iframe width="100%" height="300" scrolling="no" frameborder="no"
-          title="DzGl"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/170972326&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
-        </iframe>
+        <iframe title="DzGl" style={{border: 0, width: '350px', height: '470px'}} src="https://bandcamp.com/EmbeddedPlayer/album=2752934233/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://anomia-prod.bandcamp.com/album/dzgl">DzGl by Cameron Shafii</a></iframe>
 
         <img src={Image01} alt="DzGl" />
         <img src={Image02} alt="DzGl" />
