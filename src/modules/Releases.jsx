@@ -22,7 +22,7 @@ export default class Releases extends PureComponent {
         </p>
         <p>
           <Link to="/releases/pithy-and-prolix">
-            Pithy & Prolix — Anòmia, 2018
+            Pithy & Prolix — Anòmia, 2019
           </Link>
         </p>
         <p>
@@ -33,8 +33,9 @@ export default class Releases extends PureComponent {
 
         <h3>Collaborations, Commissions, and Compilations:</h3>
 
+        <p>Sutekh Hexen - Breed in Me The Darkness: The Second Coming Mixes by Andrew Liles — Aurora Borealis, 2012</p>
+        <p>Sutekh Hexen - Monument of Decay — Black Horizons, 2013</p>
         <p>Quark: How Does The Invisible Sound? [Q11] — 901 Editions, 2016</p>
-        <p>One of You is Fake (score for dance performance) — Beth Graczyk, 2017-18</p>
       </section>
     );
   }
