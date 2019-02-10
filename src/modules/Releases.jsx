@@ -31,7 +31,7 @@ export default class Releases extends PureComponent {
           </Link>
         </p>
 
-        <h3>Collaborations, Commissions, and Compilations:</h3>
+        <h3>Collaborations and Compilations:</h3>
 
         <p>Sutekh Hexen - Breed in Me The Darkness: The Second Coming Mixes by Andrew Liles — Aurora Borealis, 2012</p>
         <p>Sutekh Hexen - Monument of Decay — Black Horizons, 2013</p>
