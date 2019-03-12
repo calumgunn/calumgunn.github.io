@@ -14,11 +14,14 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>(w/ Rubén Patiño)<br />
-        02/14/2019 - Washington, DC at Rhizome</p>
+        <p>(w/ Seth Graham)<br />
+        05/29/2019 - Prague, CZ at TBD</p>
 
         <h3>Past:</h3>
 
+        <p>(w/ Rubén Patiño)<br />
+        02/14/2019 - Washington, DC at Rhizome</p>
+        
         <p>(w/ Gerritt Wittmer, Peter J. Woods)<br />
         08/09/2018 - Philadelphia, PA at Heaven's Gate</p>
         
