@@ -19,7 +19,7 @@ export default class DzGl extends PureComponent {
 
         <p>Label: Anòmia<br />
         Catalog Number: ANM019<br />
-        Format: Cassette, Album<br />
+        Format: Cassette/DL, Album<br />
         Country: Spain<br />
         Release Date: 2015</p>
 
@@ -40,7 +40,7 @@ export default class DzGl extends PureComponent {
         <p>Mastered by Rashad Becker at D&M, Berlin.</p>
 
         <p>Special thanks to Arnau Sala Saez, Rashad Becker, Joe Gilmore,
-        Elaine Jones, and Marcus Schmickler.</p>
+        and Marcus Schmickler.</p>
 
         <iframe title="DzGl" style={{border: 0, width: '350px', height: '470px'}} src="https://bandcamp.com/EmbeddedPlayer/album=2752934233/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://anomia-prod.bandcamp.com/album/dzgl">DzGl by Cameron Shafii</a></iframe>
 
