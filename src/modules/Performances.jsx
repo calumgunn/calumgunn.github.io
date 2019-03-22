@@ -14,9 +14,15 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
+        <p>(w/ John Krausbauer / Kaori Suzuki)<br />
+        06/07/2019 - Bradford, UK at Fuse Art Space</p>        
+        
         <p>(w/ Seth Graham)<br />
-        05/29/2019 - Prague, CZ at TBD</p>
-
+        05/29/2019 - Prague, CZ at Ponec Theatre, Genot Centre</p>
+        
+        <p>(w/ Ka Baird)<br />
+        05/01/2019 - Philadelphia, PA at Institute of Contemporary Art, University of Pennsylvania</p>
+        
         <h3>Past:</h3>
 
         <p>(w/ Rubén Patiño)<br />
