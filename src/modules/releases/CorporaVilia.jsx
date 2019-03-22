@@ -19,7 +19,7 @@ export default class CorporaVilia extends PureComponent {
 
         <p>Label: Conditional<br />
         Catalog Number: CON021<br />
-        Format: CD, Album<br />
+        Format: CD/DL, Album<br />
         Country: Germany<br />
         Release Date: 2019</p>
 
