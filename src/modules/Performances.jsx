@@ -14,7 +14,7 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>(w/ John Krausbauer / Kaori Suzuki)<br />
+        <p>(w/ John Krausbauer + Kaori Suzuki)<br />
         06/07/2019 - Bradford, UK at Fuse Art Space</p>        
         
         <p>(w/ Seth Graham)<br />
