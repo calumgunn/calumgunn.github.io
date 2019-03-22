@@ -19,16 +19,16 @@ export default class CorporaVilia extends PureComponent {
 
         <p>Label: Conditional<br />
         Catalog Number: CON021<br />
-        Format: CD/DL, Album<br />
+        Format: CD/DL<br />
         Country: Germany<br />
         Release Date: 2019</p>
 
         <h3>Tracklist:</h3>
 
         <p>
-          01  Points and Planes of Potential Future Violations [11:32]<br />
-          02  Text 27 (Lise ein Fernsehspiel) [22:51]<br />
-          03  Spatial Envy; or Suture and Cut-Pieces [23:58]
+          01 - Points and Planes of Potential Future Violations [11:32]<br />
+          02 - Text 27 (Lise ein Fernsehspiel) [22:51]<br />
+          03 - Spatial Envy; or Suture and Cut-Pieces [23:58]
         </p>
 
         <p>Mastered by Noel Summerville at 3345 Mastering, London.</p>
