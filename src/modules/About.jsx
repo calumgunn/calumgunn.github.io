@@ -14,6 +14,8 @@ export default class About extends PureComponent {
 
         <img src={Cameron} alt="Cameron Shafii" />
 
+        <h3>Biography:</h3>
+        
         <p>Cameron Shafii is an Iranian composer practicing electronic and electroacoustic music. His compositions are inflected with a host of digital synthesis processes and are informed by aspects of acousmatic theory, particularly spectromorphology. Many of his compositions have been published by Anòmia (2015; 2019) and Conditional (2019). He runs the Ge-stell label and is based in Philadelphia, where he is pursuing a Ph.D. in Germanic Languages and Literatures and the History of Art at the University of Pennsylvania.</p>
 
         <h3>Selected Press:</h3>
