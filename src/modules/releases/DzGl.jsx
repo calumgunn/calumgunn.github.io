@@ -19,22 +19,22 @@ export default class DzGl extends PureComponent {
 
         <p>Label: Anòmia<br />
         Catalog Number: ANM019<br />
-        Format: Cassette/DL, Album<br />
+        Format: Cassette/DL<br />
         Country: Spain<br />
         Release Date: 2015</p>
 
         <h3>Tracklist:</h3>
 
         <p>
-          A1  iDfferezn [01:02]<br />
-          A2  eniDezffr [05:56]<br />
-          A3  nDifreezf [01:46]<br />
-          A4  znerDeffi [00:07]<br />
-          A5  rnDfeifze [02:14]<br />
-          A6  Differenz [01:58]<br />
-          B1  gnuecighl [08:31]<br />
-          B2  eigcghunl [03:03]<br />
-          B3  Gleichung [01:27]
+          A1 - iDfferezn [01:02]<br />
+          A2 - eniDezffr [05:56]<br />
+          A3 - nDifreezf [01:46]<br />
+          A4 - znerDeffi [00:07]<br />
+          A5 - rnDfeifze [02:14]<br />
+          A6 - Differenz [01:58]<br />
+          B1 - gnuecighl [08:31]<br />
+          B2 - eigcghunl [03:03]<br />
+          B3 - Gleichung [01:27]
         </p>
 
         <p>Mastered by Rashad Becker at D&M, Berlin.</p>
