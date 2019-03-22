@@ -14,13 +14,13 @@ export default class PithyProlix extends PureComponent {
 
         <p>Label: Anòmia<br />
         Catalog Number: ANM049<br />
-        Format: CD/DL, Album<br />
+        Format: CD/DL<br />
         Country: Spain<br />
         Release Date: 2019</p>
 
         <h3>Tracklist:</h3>
 
-        <p>01  Pithy & Prolix [40:48]</p>
+        <p>01 - Pithy & Prolix [40:48]</p>
 
         <p>Mastered by Noel Summerville at 3345 Mastering, London.</p>
 
