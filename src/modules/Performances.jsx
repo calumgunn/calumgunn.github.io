@@ -79,7 +79,7 @@ export default class Performances extends PureComponent {
         03/18/2016 - Portland, OR at S1, 2 Day Festival 2016<br />
         03/17/2016 - Seattle, WA at Kremwerk, Elevator<br />
         03/15/2016 - Oakland, CA at The Night Light<br />
-        03/13/2016 - Phoenix, AZ at The Rebel Lounge<br />
+        03/13/2016 - Phoenix, AZ at The Rebel Lounge, Ascetic House<br />
         03/12/2016 - Los Angeles, CA at Human Resources<br />
         03/11/2016 - San Francisco, CA at F8, Surface Tension</p>
         
@@ -105,7 +105,7 @@ export default class Performances extends PureComponent {
         09/11/2012 - Denton, TX at Rubber Glove<br />
         09/09/2012 - New Orleans, LA at The Big Top<br />
         09/08/2012 - Raleigh, NC at Hopscotch Music Festival 2012 (w/ Sunn O))), Kevin Drumm)<br />
-        09/06/2012 - Stevenson, MD at Greenspring Art Gallery, Stevenson University<br />
+        09/06/2012 - Baltimore, MD at Greenspring Art Gallery, Stevenson University<br />
         09/05/2012 - Richmond, VA at Strange Matter<br />
         09/04/2012 - Brooklyn, NY at Saint Vitus Bar<br />
         09/03/2012 - Pawtucket, RI at Machines With Magnets<br />
