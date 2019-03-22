@@ -20,7 +20,7 @@ export default class Performances extends PureComponent {
         <p>(w/ Seth Graham)<br />
         05/29/2019 - Prague, CZ at Ponec Theatre, Genot Centre</p>
         
-        <p>(w/ Ka Baird; in conjunction with exhibition Tony Conrad: A Retrospective)<br />
+        <p>(w/ Ka Baird; in conjunction with exhibit <i>Introducing Tony Conrad: A Retrospective</i>)<br />
         05/01/2019 - Philadelphia, PA at Institute of Contemporary Art, University of Pennsylvania</p>
         
         <h3>Past:</h3>
