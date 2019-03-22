@@ -34,7 +34,7 @@ export default class Performances extends PureComponent {
         <p>(w/ Kevin Drumm)<br />
         05/19/2018 - San Francisco, CA at The Lab</p>
 
-        <p>(solo concert; premiere of 'Corpora Vilia')<br />
+        <p>(solo concert; premiere of <i>Corpora Vilia</i>)<br />
         05/04/2018 - Chicago, IL at Bond Chapel, University of Chicago, Renaissance Society</p>
         
         <p>(sound installation w/ visual accompaniment by Alex Boeschenstein; premiere of 'Text 27')<br />
