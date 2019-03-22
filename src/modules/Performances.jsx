@@ -14,7 +14,7 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
-        <p>(w/ John Krausbauer + Kaori Suzuki)<br />
+        <p>(w/ John Krausbauer & Kaori Suzuki)<br />
         06/07/2019 - Bradford, UK at Fuse Art Space</p>        
         
         <p>(w/ Seth Graham)<br />
@@ -28,7 +28,7 @@ export default class Performances extends PureComponent {
         <p>(w/ Rubén Patiño)<br />
         02/14/2019 - Washington, DC at Rhizome</p>
         
-        <p>(w/ Gerritt Wittmer, Peter J. Woods)<br />
+        <p>(w/ Gerritt Wittmer)<br />
         08/09/2018 - Philadelphia, PA at Heaven's Gate</p>
         
         <p>(w/ Kevin Drumm)<br />
@@ -45,7 +45,7 @@ export default class Performances extends PureComponent {
         10/21/2017 - Philadelphia, PA at Icebox Project Space, Human Festival 2017<br />
         10/20/2017 - Baltimore, MD at The Red Room, Diffusion Festival 2017</p>
 
-        <p>(w/ Archivist, IVVY)<br />
+        <p>(w/ Archivist)<br />
         08/11/2017 - Naches, WA at American Ridge Lodge, Lodge Festival 2017</p>
 
         <p>(w/ Demdike Stare)<br />
@@ -83,7 +83,7 @@ export default class Performances extends PureComponent {
         03/12/2016 - Los Angeles, CA at Human Resources<br />
         03/11/2016 - San Francisco, CA at F8, Surface Tension</p>
         
-        <p>(w/ William Huston & Ted Byrnes, VRS)<br />
+        <p>(w/ Ellen Phan, William Huston & Ted Byrnes)<br />
         01/22/2016 - Los Angeles, CA at The Wulf</p>
 
         <p>(w/ Marcus Schmickler)<br />
@@ -93,6 +93,7 @@ export default class Performances extends PureComponent {
         02/15/2015 - Phoenix, AZ at Apartment 512 Gallery, Ascetic House<br />
         02/14/2015 - Los Angeles, CA at Complex<br />
         02/13/2015 - Oakland, CA at Terminal<br />
+        02/11/2015 - San Francisco, CA at BFF.fm, Highpoint Lowlife<br />
         02/10/2015 - San Francisco, CA at Elbo Room</p>
 
         <p>(in Sutekh Hexen)<br />
