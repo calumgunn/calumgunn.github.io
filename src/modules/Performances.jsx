@@ -80,8 +80,8 @@ export default class Performances extends PureComponent {
         03/13/2016 - Phoenix, AZ at The Rebel Lounge<br />
         03/15/2016 - Oakland, CA at The Night Light<br />
         03/17/2016 - Seattle, WA at Kremwerk, Elevator<br />
-        03/18/2016 - Portland, OR at S1, 2 Day Festival 2017<br />
-        03/19/2016 - Portland, OR at S1, 2 Day Festival 2017</p>
+        03/18/2016 - Portland, OR at S1, 2 Day Festival 2016<br />
+        03/19/2016 - Portland, OR at S1, 2 Day Festival 2016</p>
 
         <p>(w/ William Huston & Ted Byrnes, VRS)<br />
         01/22/2016 - Los Angeles, CA at The Wulf</p>
@@ -114,7 +114,7 @@ export default class Performances extends PureComponent {
         09/14/2012 - Tempe, AZ at Yucca Tap Room<br />
         09/15/2012 - Los Angeles, CA at Vacation Vinyl<br />
         09/20/2012 - Oakland, CA at Oakland Metro Operahouse<br />
-        09/23/2012 - Soda Springs, CA at Stella Natura Festival 2012 (w/ Aluk Todolo, Ash Borer, Wolvserpent)</p>
+        09/23/2012 - Soda Springs, CA at Stella Natura Festival 2012 (w/ Aluk Todolo, Arktau Eos)</p>
       </section>
     );
   }
