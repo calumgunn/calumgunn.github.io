@@ -18,7 +18,7 @@ export default class Performances extends PureComponent {
         06/07/2019 - Bradford, UK at Fuse Art Space</p>        
         
         <p>(w/ Seth Graham)<br />
-        05/29/2019 - Prague, CZ at Studio ALTA, Genot Centre</p>
+        05/30/2019 - Prague, CZ at Studio ALTA, Genot Centre</p>
         
         <p>(w/ Ka Baird; in conjunction with exhibition <i>Introducing Tony Conrad: A Retrospective</i>)<br />
         05/01/2019 - Philadelphia, PA at Institute of Contemporary Art, University of Pennsylvania</p>
