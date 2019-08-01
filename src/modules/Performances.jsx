@@ -14,6 +14,11 @@ export default class Performances extends PureComponent {
 
         <h3>Forthcoming:</h3>
 
+        <p>(w/ Bardo:Basho)<br />
+        08/17/2019 - Pittsburgh, PA at 3577 Studios</p>  
+        
+        <h3>Past:</h3>
+        
         <p>(w/ John Krausbauer & Kaori Suzuki)<br />
         06/07/2019 - Bradford, UK at Fuse Art Space</p>        
         
@@ -22,8 +27,6 @@ export default class Performances extends PureComponent {
         
         <p>(w/ Ka Baird; in conjunction with exhibition <i>Introducing Tony Conrad: A Retrospective</i>)<br />
         05/01/2019 - Philadelphia, PA at Institute of Contemporary Art, University of Pennsylvania</p>
-        
-        <h3>Past:</h3>
 
         <p>(w/ Rubén Patiño)<br />
         02/14/2019 - Washington, DC at Rhizome</p>
