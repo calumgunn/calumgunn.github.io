@@ -15,7 +15,7 @@ export default class Performances extends PureComponent {
         <h3>Forthcoming:</h3>
 
         <p>(w/ Bardo:Basho)<br />
-        08/17/2019 - Pittsburgh, PA at 3577 Studios</p>  
+        08/17/2019 - Pittsburgh, PA at 3577 Studios, Cosmic Sound</p>  
         
         <h3>Past:</h3>
         
