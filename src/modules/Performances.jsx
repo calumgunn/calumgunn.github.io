@@ -105,7 +105,7 @@ export default class Performances extends PureComponent {
         09/15/2012 - Los Angeles, CA at Vacation Vinyl<br />
         09/14/2012 - Tempe, AZ at Yucca Tap Room<br />
         09/13/2012 - Albuquerque, NM at Small Engine Room<br />
-        09/11/2012 - Denton, TX at Rubber Glove<br />
+        09/11/2012 - Denton, TX at Rubber Gloves<br />
         09/09/2012 - New Orleans, LA at The Big Top<br />
         09/08/2012 - Raleigh, NC at Hopscotch Music Festival 2012 (w/ Sunn O))), Kevin Drumm)<br />
         09/06/2012 - Baltimore, MD at Greenspring Art Gallery, Stevenson University<br />
